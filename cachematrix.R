@@ -3,8 +3,7 @@
 #makeCacheMatrix() function creates a special vector which sets the initial value of 
 #'inv' of matrix globally and also defines activities of various functions
 
-
-## Write a short comment describing this function
+# Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
   
